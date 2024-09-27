@@ -1,0 +1,51 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "none",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1421,
+       "width": 1720,
+       "x": 3640,
+       "y": 0
+    },
+    "marks": [],
+    "name": "Welcome - zadania - Visual Studio Code",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Code$",
+       // "instance": "^code$",
+       // "machine": "^phermanowicz\\-ThinkPad\\-L14\\-Gen\\-4$",
+       // "title": "^Welcome\\ \\-\\ zadania\\ \\-\\ Visual\\ Studio\\ Code$",
+       // "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1401,
+       "width": 1716,
+       "x": 3652,
+       "y": 28
+    },
+    "marks": [],
+    "name": "New Tab - Google Chrome",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Google\\-chrome$",
+       // "instance": "^google\\-chrome$",
+       // "machine": "^phermanowicz\\-ThinkPad\\-L14\\-Gen\\-4$",
+       // "title": "^New\\ Tab\\ \\-\\ Google\\ Chrome$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
