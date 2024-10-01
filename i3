@@ -1,0 +1,1 @@
+/home/phermanowicz/.config/i3
